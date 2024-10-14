@@ -1,4 +1,4 @@
-# Simple Stack Data Structure Implementation
+# Simple Stack Implementation
 
 This project aims to create a stack data structure by following these instructions:
 
